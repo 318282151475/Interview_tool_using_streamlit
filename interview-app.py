@@ -1,5 +1,4 @@
-#Below is the interview tool which will take interview of an interviewee based on provided information and will give feedback on interviewee preparation/knowledge.
-
+#The tool below conducts an interview with the interviewee based on the provided information and gives feedback on their preparation and knowledge.
 
 from openai import OpenAI
 import streamlit as st
