@@ -1,4 +1,4 @@
-#Below is the interview tool which will take interview of an interviewee based on provided information and will give feedback on users preparation/knowledge.
+#Below is the interview tool which will take interview of an interviewee based on provided information and will give feedback on interviewee preparation/knowledge.
 
 
 from openai import OpenAI
